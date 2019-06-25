@@ -1,2 +1,2 @@
 # New_Test_project
-Learning the technology
+Learning the technology.
